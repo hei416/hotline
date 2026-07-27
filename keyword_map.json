@@ -135,24 +135,6 @@
     "加new number", "加新號碼", "加個name", "加contact", "set contact",
     "加個人", "加個friend", "加個人落聯絡人", "加個人落通訊錄"
   ],
-  "data/whatsapp/basics/introduction.md": [
-    "咩係WhatsApp",
-    "WhatsApp係咩",
-    "點解用WhatsApp",
-    "WhatsApp介紹",
-    "WhatsApp好唔好用",
-    "WhatsApp係免費",
-    "點解要用WhatsApp"
-  ],
-  "data/whatsapp/basics/interface_overview.md": [
-    "WhatsApp介面",
-    "WhatsApp畫面",
-    "點睇WhatsApp",
-    "WhatsApp版面",
-    "WhatsApp入面有咩",
-    "WhatsApp頁面",
-    "WhatsApp係點用"
-  ],
   "data/whatsapp/basics/create_group.md": [
     "建立群組",
     "改群組信息",
@@ -264,7 +246,8 @@
     "加自己個名",
     "接龍名單",
     "排隊報名",
-    "信息接龍"
+    "信息接龍",
+    "留名"
   ],
   "data/whatsapp/communication/making_calls.md": [
     "打電話",
@@ -340,16 +323,6 @@
     "字體設定",
     "字體大小"
   ],
-  "data/whatsapp/accessibility/simplified_interface.md": [
-    "簡單介面",
-    "介面太複雜",
-    "簡化介面",
-    "simple mode",
-    "易用模式",
-    "長者模式",
-    "老人家模式",
-    "簡單啲"
-  ],
   "data/whatsapp/accessibility/voice_input.md": [
     "講嘢輸入",
     "語音打字",
@@ -358,33 +331,7 @@
     "mic打字",
     "用咪打字"
   ],
-  "data/whatsapp/privacy/security.md": [
-    "私隱",
-    "安全",
-    "privacy",
-    "security",
-    "隱私設定",
-    "點保護WhatsApp",
-    "兩步驗證",
-    "封鎖",
-    "block人",
-    "唔想俾人睇",
-    "保護帳號"
-  ],
-  "data/whatsapp/safety/avoiding_scams.md": [
-    "詐騙",
-    "呃人",
-    "scam",
-    "釣魚",
-    "可疑訊息",
-    "唔知係唔係真",
-    "假WhatsApp",
-    "唔好按",
-    "唔好click",
-    "可疑連結",
-    "唔認識嘅人",
-    "騙案"
-  ],
+
   "data/whatsapp/troubleshooting/common_issues.md": [
     "WhatsApp唔得",
     "WhatsApp有問題",
