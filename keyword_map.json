@@ -33,7 +33,9 @@
     "新巴",
     "機場巴士",
     "九巴app",
-    "巴士app"
+    "巴士app",
+    "hk.bus",
+    "hkbus"
   ],
   "_meta/actions/goodbye": [
     "唔使",
@@ -127,11 +129,65 @@
     "設定個人資料"
   ],
   "data/whatsapp/basics/add_contact.md": [
-  "新增聯絡人", "加聯絡人", "加人", "加朋友", "加電話號碼",
-  "點加人", "點加聯絡人", "儲存電話號碼", "加入通訊錄",
-  "add contact", "新增電話", "save contact", "點加朋友",
-  "加new number", "加新號碼", "加個name","加contact","set contact","加個人","加個friend","加個人落聯絡人","加個人落通訊錄"
-],
+    "新增聯絡人", "加聯絡人", "加人", "加朋友", "加電話號碼",
+    "點加人", "點加聯絡人", "儲存電話號碼", "加入通訊錄",
+    "add contact", "新增電話", "save contact", "點加朋友",
+    "加new number", "加新號碼", "加個name", "加contact", "set contact",
+    "加個人", "加個friend", "加個人落聯絡人", "加個人落通訊錄"
+  ],
+  "data/whatsapp/basics/introduction.md": [
+    "咩係WhatsApp",
+    "WhatsApp係咩",
+    "點解用WhatsApp",
+    "WhatsApp介紹",
+    "WhatsApp好唔好用",
+    "WhatsApp係免費",
+    "點解要用WhatsApp"
+  ],
+  "data/whatsapp/basics/interface_overview.md": [
+    "WhatsApp介面",
+    "WhatsApp畫面",
+    "點睇WhatsApp",
+    "WhatsApp版面",
+    "WhatsApp入面有咩",
+    "WhatsApp頁面",
+    "WhatsApp係點用"
+  ],
+  "data/whatsapp/basics/create_group.md": [
+    "建立群組",
+    "改群組信息",
+    "加入群組",
+    "加人落群組",
+    "whatsapp 群組",
+    "開群組",
+    "家庭群組",
+    "朋友群組",
+    "加多個人",
+    "群組名",
+    "群組相"
+  ],
+  "data/whatsapp/basics/create_poll.md": [
+    "點投票",
+    "發起投票",
+    "投票",
+    "整投票",
+    "意見調查",
+    "揀選項",
+    "投邊個",
+    "票數"
+  ],
+  "data/whatsapp/basics/voice_input.md": [
+    "voice input",
+    "語音輸入",
+    "speech to text",
+    "說話輸入",
+    "入字",
+    "唔想打字",
+    "講嘢變字",
+    "對住手機講",
+    "打字唔掂",
+    "唔識打字"
+  ],
   "data/whatsapp/communication/sending_texts.md": [
     "send message",
     "發訊息",
@@ -207,7 +263,8 @@
     "加名",
     "加自己個名",
     "接龍名單",
-    "排隊報名"
+    "排隊報名",
+    "信息接龍"
   ],
   "data/whatsapp/communication/making_calls.md": [
     "打電話",
@@ -257,41 +314,6 @@
     "有人打視像",
     "點接視像"
   ],
-  "data/whatsapp/basics/create_group.md": [
-    "建立群組",
-    "改群組信息",
-    "加入群組",
-    "加人落群組",
-    "whatsapp 群組",
-    "開群組",
-    "家庭群組",
-    "朋友群組",
-    "加多個人",
-    "群組名",
-    "群組相"
-  ],
-  "data/whatsapp/basics/create_poll.md": [
-    "點投票",
-    "發起投票",
-    "投票",
-    "整投票",
-    "意見調查",
-    "揀選項",
-    "投邊個",
-    "票數"
-  ],
-  "data/whatsapp/basics/voice_input.md": [
-    "voice input",
-    "語音輸入",
-    "speech to text",
-    "說話輸入",
-    "入字",
-    "唔想打字",
-    "講嘢變字",
-    "對住手機講",
-    "打字唔掂",
-    "唔識打字"
-  ],
   "data/whatsapp/communication/voice_messages.md": [
     "voice message",
     "語音訊息",
@@ -302,32 +324,102 @@
     "send錄音",
     "講嘢俾人聽",
     "send咗段聲",
-    "按住咪講"
+    "按住咪講",
+    "錄音",
+    "錄咗段聲"
   ],
-  "data/kmb/install.md": [
-    "install KMB 1993",
-    "安裝 KMB 1993",
-    "download KMB 1993",
-    "下載 KMB 1993",
-    "下載九巴",
-    "下載城巴",
-    "裝九巴app"
+  "data/whatsapp/accessibility/large_text.md": [
+    "字細",
+    "字太細",
+    "睇唔清",
+    "字體大啲",
+    "放大字",
+    "大字體",
+    "字唔夠大",
+    "調大啲字",
+    "字體設定",
+    "字體大小"
   ],
-  "data/kmb/location.md": [
-    "location",
-    "位置",
-    "設定",
-    "setting",
-    "開定位",
-    "搵唔到位置",
-    "gps",
-    "定位服務"
+  "data/whatsapp/accessibility/simplified_interface.md": [
+    "簡單介面",
+    "介面太複雜",
+    "簡化介面",
+    "simple mode",
+    "易用模式",
+    "長者模式",
+    "老人家模式",
+    "簡單啲"
   ],
-  "data/kmb/route.md": [
-    "search",
+  "data/whatsapp/accessibility/voice_input.md": [
+    "講嘢輸入",
+    "語音打字",
+    "用聲音打字",
+    "唔識打廣東話",
+    "mic打字",
+    "用咪打字"
+  ],
+  "data/whatsapp/privacy/security.md": [
+    "私隱",
+    "安全",
+    "privacy",
+    "security",
+    "隱私設定",
+    "點保護WhatsApp",
+    "兩步驗證",
+    "封鎖",
+    "block人",
+    "唔想俾人睇",
+    "保護帳號"
+  ],
+  "data/whatsapp/safety/avoiding_scams.md": [
+    "詐騙",
+    "呃人",
+    "scam",
+    "釣魚",
+    "可疑訊息",
+    "唔知係唔係真",
+    "假WhatsApp",
+    "唔好按",
+    "唔好click",
+    "可疑連結",
+    "唔認識嘅人",
+    "騙案"
+  ],
+  "data/whatsapp/troubleshooting/common_issues.md": [
+    "WhatsApp唔得",
+    "WhatsApp有問題",
+    "開唔到WhatsApp",
+    "收唔到訊息",
+    "發唔到訊息",
+    "WhatsApp壞咗",
+    "WhatsApp無反應",
+    "WhatsApp出問題",
+    "send唔到",
+    "收唔到"
+  ],
+  "data/whatsapp/troubleshooting/update_app.md": [
+    "更新WhatsApp",
+    "update WhatsApp",
+    "WhatsApp要更新",
+    "WhatsApp版本舊",
+    "WhatsApp唔係最新",
+    "upgrade WhatsApp",
+    "點更新app",
+    "app要update"
+  ],
+  "data/hk.bus/installation.md": [
+    "安裝hk.bus",
+    "下載hk.bus",
+    "裝巴士app",
+    "download巴士app",
+    "hk bus app",
+    "裝hkbus",
+    "下載巴士app",
+    "巴士app點裝"
+  ],
+  "data/hk.bus/route.md": [
     "bus station",
     "route number",
-    "用九巴",
     "找巴士路線",
     "找巴士",
     "最近車站",
@@ -337,56 +429,99 @@
     "搭車",
     "幾時到站",
     "下一班車",
-    "實時到站"
+    "實時到站",
+    "巴士路線號",
+    "幾號巴士"
   ],
-  "/Users/hei/Downloads/keywords/data/kmb/ai_ask_route.md":["智能問路", "AI問路", "AI幫我搵路線", "用AI搵路", "AI搭車","唔識去","點去","點搭車去","點搭車","點去到","點去果度","點去嗰度","點去邊度","想去邊度","想去嗰度","想去果度","想去"],
-  "data/kmb/ads.md": [
-    "廣告",
-    "ad",
-    "advertisement",
-    "彈出廣告",
-    "關閉廣告",
-    "廣告煩",
-    "有廣告",
-    "點關廣告",
-    "關唔到廣告",
-    "廣告點做",
-    "交叉按鈕",
-    "廣告點閂",
-    "唔想睇廣告"
+  "data/hk.bus/location.md": [
+    "location",
+    "位置",
+    "設定",
+    "setting",
+    "開定位",
+    "搵唔到位置",
+    "gps",
+    "定位服務",
+    "開GPS",
+    "允許位置"
   ],
-  "data/kmb/destination_search.md": [
-    "想去邊度",
+  "data/map/find_location.md": [
+    "google map",
+    "google地圖",
+    "地圖",
+    "搵地方",
+    "搵地點",
+    "搵地址",
     "去邊度",
-    "點去",
-    "點樣去",
-    "搭車去",
-    "去邊",
-    "點搭車去",
-    "去嗰度",
-    "去目的地",
-    "點去到",
-    "想去",
-    "目的地搜尋",
-    "點到點",
-    "點到點搜尋",
-    "點去果度",
-    "點搭"
+    "搵唔到地方",
+    "點搵地點",
+    "搜尋地點",
+    "地圖搵",
+    "apple地圖",
+    "搵醫院",
+    "搵超市",
+    "搵公園"
   ],
-  "data/kmb/nearby_bus.md": [
-    "附近",
-    "鄰近",
-    "nearby",
-    "附近巴士",
-    "附近車站",
-    "附近有咩巴士",
-    "鄰近巴士站",
-    "點搵附近巴士",
-    "邊度有車搭",
-    "最近巴士站",
-    "附近有咩車",
-    "睇附近路線",
-    "鄰近功能"
+  "data/map/navigation.md": [
+    "導航",
+    "navigation",
+    "帶路",
+    "帶我去",
+    "點去到",
+    "路線指示",
+    "開導航",
+    "用地圖導航",
+    "地圖帶路",
+    "步行路線",
+    "駕車路線",
+    "乘車路線",
+    "轉彎指示",
+    "語音導航"
+  ],
+  "data/phone_settings/wifi_connection.md": [
+    "wifi",
+    "無線上網",
+    "連wifi",
+    "連接wifi",
+    "上網",
+    "連唔到網",
+    "搵唔到wifi",
+    "wifi密碼",
+    "點連wifi",
+    "點上網",
+    "無網",
+    "冇wifi",
+    "連線",
+    "屋企wifi",
+    "接駁網絡",
+    "網絡"
+  ],
+  "data/phone_settings/airplane_mode.md": [
+    "飛行模式",
+    "airplane mode",
+    "開飛行模式",
+    "關飛行模式",
+    "唔想收電話",
+    "靜音模式",
+    "坐飛機",
+    "飛機上",
+    "開咗飛行模式",
+    "點開飛行模式"
+  ],
+  "data/phone_settings/download_app.md": [
+    "下載app",
+    "裝app",
+    "download app",
+    "install app",
+    "google play",
+    "app store",
+    "點裝app",
+    "點下載app",
+    "搵唔到app",
+    "裝唔到app",
+    "去邊度download",
+    "應用程式商店",
+    "下載軟件"
   ],
   "data/ha_go/install.md": [
     "install HA GO",
@@ -394,7 +529,19 @@
     "download HA GO",
     "下載HA GO",
     "醫管局app",
-    "醫院app"
+    "醫院app",
+    "裝HA Go",
+    "點裝HA Go"
+  ],
+  "data/ha_go/login.md": [
+    "登入HA Go",
+    "HA Go登入",
+    "login HA Go",
+    "sign in HA Go",
+    "入唔到HA Go",
+    "HA Go入唔到",
+    "HA Go帳號登入",
+    "登入醫管局app"
   ],
   "data/ha_go/account.md": [
     "setup account",
@@ -405,7 +552,29 @@
     "登記HA GO",
     "身份證",
     "收驗證碼",
-    "qr code"
+    "qr code",
+    "開HA Go帳戶",
+    "註冊HA Go"
+  ],
+  "data/ha_go/forgot_username.md": [
+    "唔記得用戶名稱",
+    "忘記用戶名稱",
+    "forgot username",
+    "唔知username",
+    "搵唔到username",
+    "HA Go用戶名稱",
+    "唔記得登入名"
+  ],
+  "data/ha_go/forgot_pw.md": [
+    "唔記得密碼",
+    "忘記密碼",
+    "forgot password",
+    "reset password",
+    "重設密碼",
+    "改密碼",
+    "HA Go密碼",
+    "入唔到密碼",
+    "密碼錯"
   ],
   "data/ha_go/booking.md": [
     "Book GOPC",
@@ -414,7 +583,31 @@
     "約醫生",
     "約普通科",
     "睇醫生",
-    "門診預約"
+    "門診預約",
+    "預約普通科"
+  ],
+  "data/ha_go/specialist_booking.md": [
+    "專科",
+    "預約專科",
+    "轉介信",
+    "醫生轉介",
+    "專科門診",
+    "新症",
+    "預約新症",
+    "專科預約",
+    "轉介預約",
+    "專職醫療"
+  ],
+  "data/ha_go/Allied_Health_Services_booking.md": [
+    "Allied Health",
+    "專職醫療",
+    "物理治療",
+    "職業治療",
+    "語言治療",
+    "聽力學",
+    "預約物理治療",
+    "預約職業治療",
+    "醫療服務預約"
   ],
   "data/ha_go/book_record.md": [
     "Booking record",
@@ -422,7 +615,8 @@
     "預約記錄",
     "睇返預約",
     "之前約過",
-    "查詢預約"
+    "查詢預約",
+    "睇預約記錄"
   ],
   "data/ha_go/cancel_booking.md": [
     "cancel",
@@ -431,7 +625,8 @@
     "取消booking",
     "唔去啦",
     "改期",
-    "取消睇醫生"
+    "取消睇醫生",
+    "唔去睇醫生"
   ],
   "data/ha_go/save.md": [
     "save clinic",
@@ -439,7 +634,9 @@
     "保存診所",
     "常用診所",
     "mark低",
-    "加星"
+    "加星",
+    "儲存診所",
+    "favourite診所"
   ],
   "data/ha_go/payment.md": [
     "payment",
@@ -474,7 +671,8 @@
     "仲有幾多人",
     "等幾耐",
     "到未",
-    "攞籌"
+    "攞籌",
+    "幾時到我"
   ],
   "data/ha_go/drug.md": [
     "medication",
@@ -491,9 +689,25 @@
     "藥單",
     "攞藥"
   ],
-  "data/phone_settings/wifi_connection.md": [
-  "wifi", "無線上網", "連wifi", "連接wifi", "上網",
-  "連唔到網", "搵唔到wifi", "wifi密碼", "點連wifi", "點上網",
-  "無網", "冇wifi", "連線", "屋企wifi", "接駁網絡","網絡" 
-]
+  "data/ha_go/caregiver_invite.md": [
+    "邀請照顧者",
+    "叫人照顧我",
+    "加照顧者",
+    "invite caregiver",
+    "照顧者",
+    "親友照顧",
+    "叫親友幫我",
+    "照顧我嘅人",
+    "邀請親友"
+  ],
+  "data/ha_go/become_caregiver.md": [
+    "成為照顧者",
+    "become caregiver",
+    "照顧其他人",
+    "幫人照顧",
+    "掃QR碼成為照顧者",
+    "scan照顧者",
+    "照顧親友",
+    "幫老人家用HA Go"
+  ]
 }
