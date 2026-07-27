@@ -484,5 +484,10 @@
     "幾時食",
     "藥單",
     "攞藥"
-  ]
+  ],
+  "data/phone_settings/wifi_connection.md": [
+  "wifi", "無線上網", "連wifi", "連接wifi", "上網",
+  "連唔到網", "搵唔到wifi", "wifi密碼", "點連wifi", "點上網",
+  "無網", "冇wifi", "連線", "屋企wifi", "接駁網絡","網絡" 
+]
 }
