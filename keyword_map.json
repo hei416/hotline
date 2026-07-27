@@ -126,6 +126,12 @@
     "改頭像",
     "設定個人資料"
   ],
+  "data/whatsapp/basics/add_contact.md": [
+  "新增聯絡人", "加聯絡人", "加人", "加朋友", "加電話號碼",
+  "點加人", "點加聯絡人", "儲存電話號碼", "加入通訊錄",
+  "add contact", "新增電話", "save contact", "點加朋友",
+  "加new number", "加新號碼", "加個name","加contact","set contact","加個人","加個friend","加個人落聯絡人","加個人落通訊錄"
+],
   "data/whatsapp/communication/sending_texts.md": [
     "send message",
     "發訊息",
