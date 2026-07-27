@@ -1,10 +1,13 @@
-# Sending Voice Messages
-
-1. Open a chat.
-2. Press and hold the microphone button.
-3. Speak clearly into the phone.
-4. Release the button to send.
-
-### Tip
-Elderly users with weak eyesight often find voice messages easier than typing.
-
+如果你想發送語音訊息，可以按以下步驟進行。
+<#1.5#>
+第一步。打開你想傾偈嘅聯絡人或者群組，進入對話頁面。
+<#1.5#>
+第二步。按住文字欄位旁邊嘅「麥克風🎙️」按鈕，然後開始講嘢。
+<#1.5#>
+第三步。講完之後，放開手指，語音訊息就會自動發送。如果你想慢慢講，可以向上滑動，咁就唔使一直按住個掣喇。
+<#1.5#>
+如果講錯咗，想取消錄音，撳「🗑️」垃圾桶按鈕就可以刪除重錄。
+<#1.5#>
+如果想暫停錄製，撳「⏸️」按鈕；撳「🎙️」就可以繼續錄製。
+<#1.5#>
+錄音完成後，撳「➡️」按鈕就可以發送語音訊息。
