@@ -13,10 +13,7 @@
   "_meta/services/hago": [
     "HA Go",
     "hago",
-    "醫院",
-    "預約",
     "醫管局",
-    "預約門診",
     "hkgo",
     "蝦糕",
     "卡高",
@@ -28,12 +25,10 @@
     "九巴",
     "KMB",
     "kmb",
-    "巴士",
     "城巴",
     "新巴",
     "機場巴士",
     "九巴app",
-    "巴士app",
     "hk.bus",
     "hkbus"
   ],
@@ -95,13 +90,12 @@
     "太快啦"
   ],
   "data/whatsapp/basics/installation.md": [
-    "安裝",
-    "裝",
-    "下載",
+    "安裝WhatsApp",
+    "裝WhatsApp",
+    "下載WhatsApp",
     "download WhatsApp",
     "整WhatsApp",
     "整落電話",
-    "開始用",
     "用WhatsApp",
     "裝whatsapp落手機",
     "whatsapp點裝",
@@ -129,11 +123,28 @@
     "設定個人資料"
   ],
   "data/whatsapp/basics/add_contact.md": [
-    "新增聯絡人", "加聯絡人", "加人", "加朋友", "加電話號碼",
-    "點加人", "點加聯絡人", "儲存電話號碼", "加入通訊錄",
-    "add contact", "新增電話", "save contact", "點加朋友",
-    "加new number", "加新號碼", "加個name", "加contact", "set contact",
-    "加個人", "加個friend", "加個人落聯絡人", "加個人落通訊錄"
+    "新增聯絡人",
+    "加聯絡人",
+    "加人",
+    "加朋友",
+    "加電話號碼",
+    "點加人",
+    "點加聯絡人",
+    "儲存電話號碼",
+    "加入通訊錄",
+    "add contact",
+    "新增電話",
+    "save contact",
+    "點加朋友",
+    "加new number",
+    "加新號碼",
+    "加個name",
+    "加contact",
+    "set contact",
+    "加個人",
+    "加個friend",
+    "加個人落聯絡人",
+    "加個人落通訊錄"
   ],
   "data/whatsapp/basics/create_group.md": [
     "建立群組",
@@ -331,7 +342,6 @@
     "mic打字",
     "用咪打字"
   ],
-
   "data/whatsapp/troubleshooting/common_issues.md": [
     "WhatsApp唔得",
     "WhatsApp有問題",
@@ -378,7 +388,9 @@
     "下一班車",
     "實時到站",
     "巴士路線號",
-    "幾號巴士"
+    "幾號巴士",
+    "巴士",
+    "巴士app"
   ],
   "data/hk.bus/location.md": [
     "location",
@@ -526,12 +538,12 @@
   "data/ha_go/booking.md": [
     "Book GOPC",
     "預約門診",
-    "預約",
     "約醫生",
     "約普通科",
     "睇醫生",
     "門診預約",
-    "預約普通科"
+    "預約普通科",
+    "普通科"
   ],
   "data/ha_go/specialist_booking.md": [
     "專科",
@@ -542,8 +554,7 @@
     "新症",
     "預約新症",
     "專科預約",
-    "轉介預約",
-    "專職醫療"
+    "轉介預約"
   ],
   "data/ha_go/Allied_Health_Services_booking.md": [
     "Allied Health",
