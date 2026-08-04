@@ -104,8 +104,7 @@
     "冇whatsapp"
   ],
   "data/whatsapp/basics/account_setup.md": [
-    "登記",
-    "建立帳戶",
+    "WhatsApp登記",
     "開WhatsApp帳號",
     "註冊WhatsApp",
     "開WhatsApp account",
@@ -113,13 +112,12 @@
     "開WhatsApp",
     "開WhatsApp嘅帳號",
     "開Account",
-    "帳號",
-    "帳戶",
-    "注冊",
-    "註冊",
+    "WhatsApp帳號",
+    "WhatsApp帳戶",
+    "注冊WhatsApp",
     "入電話號碼",
-    "收驗證碼",
-    "驗證碼",
+    "WhatsApp收驗證碼",
+    "WhatsApp驗證碼",
     "set個名",
     "改頭像",
     "設定個人資料"
@@ -247,7 +245,7 @@
     "分享我位置",
     "實時位置",
     "share location",
-    "開定位",
+    "WhatsApp開定位",
     "停咗定位"
   ],
   "data/whatsapp/communication/join_chat.md": [
@@ -390,21 +388,17 @@
     "下一班車",
     "實時到站",
     "巴士路線號",
-    "幾號巴士",
-    "巴士",
-    "巴士app"
+    "幾號巴士"
   ],
   "data/hk.bus/location.md": [
-    "location",
-    "位置",
-    "設定",
-    "setting",
-    "開定位",
-    "搵唔到位置",
-    "gps",
-    "定位服務",
-    "開GPS",
-    "允許位置"
+    "巴士定位",
+    "巴士開定位",
+    "hk.bus位置權限",
+    "巴士app搵唔到位置",
+    "巴士GPS",
+    "開GPS定位巴士",
+    "允許巴士位置",
+    "定位服務巴士"
   ],
   "data/map/find_location.md": [
     "google map",
@@ -505,17 +499,16 @@
     "登入醫管局app"
   ],
   "data/ha_go/account.md": [
-    "setup account",
-    "create account",
-    "建立帳戶",
-    "開帳號",
-    "註冊",
+    "setup HA Go account",
+    "create HA Go account",
+    "建立HA Go帳戶",
+    "開HA Go帳號",
+    "註冊HA Go",
     "登記HA GO",
     "身份證",
-    "收驗證碼",
+    "HA Go收驗證碼",
     "qr code",
-    "開HA Go帳戶",
-    "註冊HA Go"
+    "開HA Go帳戶"
   ],
   "data/ha_go/forgot_username.md": [
     "唔記得用戶名稱",
@@ -627,7 +620,7 @@
     "queue",
     "排隊易",
     "拎籌",
-    "排隊",
+    "診所排隊",
     "仲有幾多人",
     "等幾耐",
     "到未",
